@@ -11,6 +11,7 @@ speechrecogniton = "*"
 pyaudio = "*"
 pynput = "*"
 pocketsphinx = "*"
+kivy = "*"
 
 [requires]
 python_version = "3.8"
