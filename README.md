@@ -11,7 +11,7 @@ This is a simple script to achieve voice controlled netflix just because I'm laz
 ## Usage
 Clone the repository and run $ python netflix_recognition.py
 
-Possible arguments and ussage:
+Possible arguments and usage:
 ```
 netflix_recognition.py [-h] [-thresh THRESHOLD] [-skip SKIP]
 
@@ -22,3 +22,5 @@ optional arguments:
   -thresh THRESHOLD  Set microphone sensitivity at which it will react to sound. Higher number - lower sensitivity. Default - 4000.
   -skip SKIP         Set the amount of skips (forward and backward) to do after you say "forward" or "backward". Default - 4
 ```
+
+## 
