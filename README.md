@@ -24,4 +24,4 @@ optional arguments:
 ```
 
 ## Making your own
-To build this script I use SpeechRecognition package [https://pypi.org/project/SpeechRecognition/2.1.3/]
+To build this script I use [SpeechRecognition](https://pypi.org/project/SpeechRecognition/2.1.3/) package
