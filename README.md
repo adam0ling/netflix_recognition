@@ -23,4 +23,5 @@ optional arguments:
   -skip SKIP         Set the amount of skips (forward and backward) to do after you say "forward" or "backward". Default - 4
 ```
 
-## 
+## Making your own
+To build this script I use SpeechRecognition package [https://pypi.org/project/SpeechRecognition/2.1.3/]
