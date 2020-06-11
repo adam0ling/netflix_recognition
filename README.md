@@ -36,4 +36,4 @@ The logic behind the script is quite simple:
 That's about it. You're done.
 
 ## Making it a usable script
-As it's a script that you may be using in different enviroments instead of changing microphone sensitivity in the code all the time the script is done using argparse. [Argparse](https://pypi.org/project/argparse/) is a great way to make your script runnable from the shell and makes it easy to add options for needed changes. See [Usage](##Usage)
+As it's a script that you may be using in different enviroments instead of changing microphone sensitivity in the code all the time the script is done using argparse. [Argparse](https://pypi.org/project/argparse/) is a great way to make your script runnable from the shell and makes it easy to add options for needed changes. See [Usage](#Usage)
